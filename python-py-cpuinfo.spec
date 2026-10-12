@@ -5,7 +5,7 @@
 
 Name:		python-py-cpuinfo
 Version:	9.0.0
-Release:	1
+Release:	2
 Summary:	A module for getting CPU info with pure Python
 License:	MIT
 Group:		Development/Python
